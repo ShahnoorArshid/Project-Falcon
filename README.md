@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Project Falcon
 
 > **Build. Learn. Share. Grow.**
@@ -214,3 +215,7 @@ It motivates me to continue building high-quality DevOps resources for the commu
 # 🚀 Project Falcon
 
 **Build. Learn. Share. Grow.**
+=======
+# Project-Falcon
+Building production-ready DevOps resources, templates, automation, and digital products. Learning in public. Building for professionals.
+>>>>>>> 2620f2b646a389589624ab617f9812a1470e175d
